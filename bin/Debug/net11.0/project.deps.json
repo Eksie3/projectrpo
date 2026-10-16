@@ -1,0 +1,96 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v11.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v11.0": {
+      "project/1.0.0": {
+        "dependencies": {
+          "Microsoft.AspNetCore.OpenApi": "11.0.0-rc.2.26504.105",
+          "Microsoft.OpenApi": "3.10.2",
+          "Npgsql": "10.0.3",
+          "Swashbuckle.AspNetCore.SwaggerUI": "10.3.0"
+        },
+        "runtime": {
+          "project.dll": {}
+        }
+      },
+      "Microsoft.AspNetCore.OpenApi/11.0.0-rc.2.26504.105": {
+        "dependencies": {
+          "Microsoft.OpenApi": "3.10.2"
+        },
+        "runtime": {
+          "lib/net11.0/Microsoft.AspNetCore.OpenApi.dll": {
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "11.0.26.50505",
+            "localPath": "Microsoft.AspNetCore.OpenApi.dll"
+          }
+        }
+      },
+      "Microsoft.OpenApi/3.10.2": {
+        "runtime": {
+          "lib/net8.0/Microsoft.OpenApi.dll": {
+            "assemblyVersion": "3.10.2.0",
+            "fileVersion": "3.10.2.0",
+            "localPath": "Microsoft.OpenApi.dll"
+          }
+        }
+      },
+      "Npgsql/10.0.3": {
+        "runtime": {
+          "lib/net10.0/Npgsql.dll": {
+            "assemblyVersion": "10.0.3.0",
+            "fileVersion": "10.0.3.0",
+            "localPath": "Npgsql.dll"
+          }
+        }
+      },
+      "Swashbuckle.AspNetCore.SwaggerUI/10.3.0": {
+        "runtime": {
+          "lib/net10.0/Swashbuckle.AspNetCore.SwaggerUI.dll": {
+            "assemblyVersion": "10.3.0.0",
+            "fileVersion": "10.3.0.3126",
+            "localPath": "Swashbuckle.AspNetCore.SwaggerUI.dll"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "project/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.AspNetCore.OpenApi/11.0.0-rc.2.26504.105": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-VjRpS18c8/vEfOGyUHHUhATIbIy9nXByxG897KQ+LYQxRpvyt5wn0GgSQEKKYnJzy2P5OGrFu56GfXXReW/IWA==",
+      "path": "microsoft.aspnetcore.openapi/11.0.0-rc.2.26504.105",
+      "hashPath": "microsoft.aspnetcore.openapi.11.0.0-rc.2.26504.105.nupkg.sha512"
+    },
+    "Microsoft.OpenApi/3.10.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-qzg4a3WmgQm28Azaporbnsu+KHA+vq5sgpQQFLiJgB06Rra2S+kzGAU7pzUB8/UIwZJCSCY2JEE/M5e0hQ2K8w==",
+      "path": "microsoft.openapi/3.10.2",
+      "hashPath": "microsoft.openapi.3.10.2.nupkg.sha512"
+    },
+    "Npgsql/10.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-7nb5YzXuvWWJxB0J8DiyL3we+X4FOctZrt0fIBnucOIaIevFEEwGQVZKtiu9olXdlNAK1eNgqSral6r/jlhI4w==",
+      "path": "npgsql/10.0.3",
+      "hashPath": "npgsql.10.0.3.nupkg.sha512"
+    },
+    "Swashbuckle.AspNetCore.SwaggerUI/10.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-3qcin6S55lsFTsWf0vQO3P0bFc0tvk2EOkH+6wgJF9UQUk1WqsDUPEkexQE9Ievc+3zTPoYds9BTlvPMRbmkcQ==",
+      "path": "swashbuckle.aspnetcore.swaggerui/10.3.0",
+      "hashPath": "swashbuckle.aspnetcore.swaggerui.10.3.0.nupkg.sha512"
+    }
+  }
+}

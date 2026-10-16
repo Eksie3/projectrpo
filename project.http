@@ -1,0 +1,11 @@
+@project_HostAddress = http://localhost:5067
+
+GET {{project_HostAddress}}/openapi/v1.json
+Accept: application/json
+
+###
+
+GET {{project_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
