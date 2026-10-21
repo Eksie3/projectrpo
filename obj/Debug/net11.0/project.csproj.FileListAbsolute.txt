@@ -46,3 +46,4 @@ C:\Users\Академия ТОП\Desktop\project\obj\Debug\net11.0\project.pdb
 C:\Users\Академия ТОП\Desktop\project\obj\Debug\net11.0\project.genruntimeconfig.cache
 C:\Users\Академия ТОП\Desktop\project\obj\Debug\net11.0\ref\project.dll
 C:\Users\Академия ТОП\Desktop\project\bin\Debug\net11.0\Npgsql.dll
+C:\Users\Академия ТОП\Desktop\project\obj\Debug\net11.0\project.sourcelink.json
