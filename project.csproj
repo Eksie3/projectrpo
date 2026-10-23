@@ -7,6 +7,6 @@
 <ItemGroup>
   <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="11.0.0-rc.2.26504.105" />
   <PackageReference Include="Swashbuckle.AspNetCore.SwaggerUI" Version="10.1.1" />
-  <PackageReference Include="Npgsql" Version="9.0.0" />
+  <PackageReference Include="Npgsql" Version="10.0.3" />
 </ItemGroup>
 </Project>

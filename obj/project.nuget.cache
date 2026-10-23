@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "a3v/U9BNZQc=",
+  "dgSpecHash": "cG6o8v188yc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Академия ТОП\\Desktop\\project\\project.csproj",
+  "projectFilePath": "C:\\Users\\yaros\\Desktop\\project\\project.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Академия ТОП\\.nuget\\packages\\microsoft.aspnetcore.openapi\\11.0.0-rc.2.26504.105\\microsoft.aspnetcore.openapi.11.0.0-rc.2.26504.105.nupkg.sha512",
-    "C:\\Users\\Академия ТОП\\.nuget\\packages\\microsoft.openapi\\3.10.2\\microsoft.openapi.3.10.2.nupkg.sha512",
-    "C:\\Users\\Академия ТОП\\.nuget\\packages\\npgsql\\9.0.0\\npgsql.9.0.0.nupkg.sha512",
-    "C:\\Users\\Академия ТОП\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\10.1.1\\swashbuckle.aspnetcore.swaggerui.10.1.1.nupkg.sha512"
+    "C:\\Users\\yaros\\.nuget\\packages\\microsoft.aspnetcore.openapi\\11.0.0-rc.2.26504.105\\microsoft.aspnetcore.openapi.11.0.0-rc.2.26504.105.nupkg.sha512",
+    "C:\\Users\\yaros\\.nuget\\packages\\microsoft.openapi\\3.10.2\\microsoft.openapi.3.10.2.nupkg.sha512",
+    "C:\\Users\\yaros\\.nuget\\packages\\npgsql\\10.0.3\\npgsql.10.0.3.nupkg.sha512",
+    "C:\\Users\\yaros\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\10.1.1\\swashbuckle.aspnetcore.swaggerui.10.1.1.nupkg.sha512"
   ],
   "logs": []
 }

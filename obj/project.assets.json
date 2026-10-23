@@ -37,15 +37,15 @@
           }
         }
       },
-      "Npgsql/9.0.0": {
+      "Npgsql/10.0.3": {
         "type": "package",
         "compile": {
-          "lib/net8.0/Npgsql.dll": {
+          "lib/net10.0/Npgsql.dll": {
             "related": ".xml"
           }
         },
         "runtime": {
-          "lib/net8.0/Npgsql.dll": {
+          "lib/net10.0/Npgsql.dll": {
             "related": ".xml"
           }
         }
@@ -105,19 +105,21 @@
         "microsoft.openapi.nuspec"
       ]
     },
-    "Npgsql/9.0.0": {
-      "sha512": "zu1nCRt0gWP/GR0reYgg0Bl5o8qyNV7mVAgzAbVLRiAd1CYXcf/9nrubPH0mt93u8iGTKmYqWaLVECEAcE6IfQ==",
+    "Npgsql/10.0.3": {
+      "sha512": "7nb5YzXuvWWJxB0J8DiyL3we+X4FOctZrt0fIBnucOIaIevFEEwGQVZKtiu9olXdlNAK1eNgqSral6r/jlhI4w==",
       "type": "package",
-      "path": "npgsql/9.0.0",
+      "path": "npgsql/10.0.3",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "README.md",
-        "lib/net6.0/Npgsql.dll",
-        "lib/net6.0/Npgsql.xml",
+        "lib/net10.0/Npgsql.dll",
+        "lib/net10.0/Npgsql.xml",
         "lib/net8.0/Npgsql.dll",
         "lib/net8.0/Npgsql.xml",
-        "npgsql.9.0.0.nupkg.sha512",
+        "lib/net9.0/Npgsql.dll",
+        "lib/net9.0/Npgsql.xml",
+        "npgsql.10.0.3.nupkg.sha512",
         "npgsql.nuspec",
         "postgresql.png"
       ]
@@ -147,36 +149,29 @@
   "projectFileDependencyGroups": {
     "net11.0": [
       "Microsoft.AspNetCore.OpenApi >= 11.0.0-rc.2.26504.105",
-      "Npgsql >= 9.0.0",
+      "Npgsql >= 10.0.3",
       "Swashbuckle.AspNetCore.SwaggerUI >= 10.1.1"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Академия ТОП\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\yaros\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Академия ТОП\\Desktop\\project\\project.csproj",
+      "projectUniqueName": "C:\\Users\\yaros\\Desktop\\project\\project.csproj",
       "projectName": "project",
-      "projectPath": "C:\\Users\\Академия ТОП\\Desktop\\project\\project.csproj",
-      "packagesPath": "C:\\Users\\Академия ТОП\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Академия ТОП\\Desktop\\project\\obj\\",
+      "projectPath": "C:\\Users\\yaros\\Desktop\\project\\project.csproj",
+      "packagesPath": "C:\\Users\\yaros\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\yaros\\Desktop\\project\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Академия ТОП\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\yaros\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net11.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -209,7 +204,7 @@
           },
           "Npgsql": {
             "target": "Package",
-            "version": "[9.0.0, )"
+            "version": "[10.0.3, )"
           },
           "Swashbuckle.AspNetCore.SwaggerUI": {
             "target": "Package",
